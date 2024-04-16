@@ -1,0 +1,504 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Apr 2024 13:56:36 at https://truenorthhr.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://truenorthhr.ca/ -O1 "C:\My Web Sites\HR consultancy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+14:04:02	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://truenorthhr.ca/)
+
+14:04:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/11133 (from https://truenorthhr.ca/)
+
+14:04:50	Error: 	"Method Not Allowed" (405) at link https://truenorthhr.ca/xmlrpc.php (from https://truenorthhr.ca/)
+
+14:08:13	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://truenorthhr.ca/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3 (from https://truenorthhr.ca/)
+
+14:08:13	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://truenorthhr.ca/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1712038236 (from https://truenorthhr.ca/)
+
+14:08:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://truenorthhr.ca/wp-content/plugins/bloom/js/custom.js?ver=1.3.12 (from https://truenorthhr.ca/)
+
+14:08:22	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/4965 (from https://truenorthhr.ca/compensation-and-benefits-consulting/)
+
+14:08:22	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4965
+
+14:08:22	Warning: 	File has moved from https://truenorthhr.ca/?p=4965 to https://truenorthhr.ca/compensation-and-benefits-consulting/
+
+14:08:30	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/8359 (from https://truenorthhr.ca/compensation-and-benefits-consulting/pay-equity/)
+
+14:08:30	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8359
+
+14:08:30	Warning: 	File has moved from https://truenorthhr.ca/?p=8359 to https://truenorthhr.ca/compensation-and-benefits-consulting/pay-equity/
+
+14:08:30	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/5774 (from https://truenorthhr.ca/hr-advisory/)
+
+14:08:30	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=5774
+
+14:08:30	Warning: 	File has moved from https://truenorthhr.ca/?p=5774 to https://truenorthhr.ca/hr-advisory/
+
+14:08:41	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/4646 (from https://truenorthhr.ca/leadership-consulting/)
+
+14:08:41	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4646
+
+14:08:41	Warning: 	File has moved from https://truenorthhr.ca/?p=4646 to https://truenorthhr.ca/leadership-consulting/
+
+14:08:41	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/1807 (from https://truenorthhr.ca/policies-diligence/)
+
+14:08:41	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=1807
+
+14:08:41	Warning: 	File has moved from https://truenorthhr.ca/?p=1807 to https://truenorthhr.ca/policies-diligence/
+
+14:08:41	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/6708 (from https://truenorthhr.ca/organizational-design/)
+
+14:08:41	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=6708
+
+14:08:41	Warning: 	File has moved from https://truenorthhr.ca/?p=6708 to https://truenorthhr.ca/organizational-design/
+
+14:08:50	Warning: 	Moved Permanently for https://truenorthhr.ca/organizational-design/human-capital-consulting/
+
+14:08:50	Warning: 	File has moved from https://truenorthhr.ca/organizational-design/human-capital-consulting/ to /human-capital-consulting/
+
+14:08:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/5542 (from https://truenorthhr.ca/human-capital-consulting/)
+
+14:08:50	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=5542
+
+14:08:50	Warning: 	File has moved from https://truenorthhr.ca/?p=5542 to https://truenorthhr.ca/human-capital-consulting/
+
+14:08:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/5269 (from https://truenorthhr.ca/hr-process-consulting/)
+
+14:08:50	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=5269
+
+14:08:50	Warning: 	File has moved from https://truenorthhr.ca/?p=5269 to https://truenorthhr.ca/hr-process-consulting/
+
+14:08:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/1791 (from https://truenorthhr.ca/staffing-recruiting/)
+
+14:08:50	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=1791
+
+14:08:50	Warning: 	File has moved from https://truenorthhr.ca/?p=1791 to https://truenorthhr.ca/staffing-recruiting/
+
+14:08:56	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/2305 (from https://truenorthhr.ca/job-openings/)
+
+14:08:56	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2305
+
+14:08:56	Warning: 	File has moved from https://truenorthhr.ca/?p=2305 to https://truenorthhr.ca/job-openings/
+
+14:08:56	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/2377 (from https://truenorthhr.ca/about-us/)
+
+14:08:56	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2377
+
+14:08:56	Warning: 	File has moved from https://truenorthhr.ca/?p=2377 to https://truenorthhr.ca/about-us/
+
+14:10:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/10672 (from https://truenorthhr.ca/our-team/)
+
+14:10:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=10672
+
+14:10:43	Warning: 	File has moved from https://truenorthhr.ca/?p=10672 to https://truenorthhr.ca/our-team/
+
+14:10:43	Warning: 	Link https://truenorthhr.ca/team-member/paola-accettola/ not scanned (follow robots meta tag)
+
+14:10:45	Warning: 	Link https://truenorthhr.ca/team-member/angela-burt/ not scanned (follow robots meta tag)
+
+14:10:46	Warning: 	Link https://truenorthhr.ca/team-member/kelly-glass/ not scanned (follow robots meta tag)
+
+14:10:47	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/1827 (from https://truenorthhr.ca/contact/)
+
+14:10:47	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=1827
+
+14:10:47	Warning: 	File has moved from https://truenorthhr.ca/?p=1827 to https://truenorthhr.ca/contact/
+
+14:10:55	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/2774 (from https://truenorthhr.ca/services/)
+
+14:10:55	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2774
+
+14:10:55	Warning: 	File has moved from https://truenorthhr.ca/?p=2774 to https://truenorthhr.ca/services/
+Nairobi
+14:11:13	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/16482 (from https://truenorthhr.ca/2024/04/02/the-crucial-role-hr-plays-in-pay-equity/)
+Nairobi
+14:11:13	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=16482
+
+14:11:13	Warning: 	File has moved from https://truenorthhr.ca/?p=16482 to https://truenorthhr.ca/2024/04/02/the-crucial-role-hr-plays-in-pay-equity/
+
+14:11:13	Warning: 	Moved Permanently for https://truenorthhr.ca/author/paola/
+
+14:11:13	Warning: 	File has moved from https://truenorthhr.ca/author/paola/ to https://truenorthhr.ca/our-team/
+
+14:11:13	Warning: 	Link https://truenorthhr.ca/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+14:11:14	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/3872 (from https://truenorthhr.ca/thanks/)
+
+14:11:14	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=3872
+
+14:11:14	Warning: 	File has moved from https://truenorthhr.ca/?p=3872 to https://truenorthhr.ca/thanks/
+
+14:11:14	Warning: 	Moved Permanently for https://truenorthhr.ca/careers/
+
+14:11:14	Warning: 	File has moved from https://truenorthhr.ca/careers/ to /job-openings/
+
+14:11:14	Error: 	"Not Found" (404) at link https://truenorthhr.ca/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot?gd6mr8 (from https://truenorthhr.ca/wp-content/plugins/bloom/css/style.css?ver=1.3.12)
+
+14:11:14	Error: 	"Not Found" (404) at link https://truenorthhr.ca/wp-content/plugins/bloom/css/fonts/ET-Bloom.eot? (from https://truenorthhr.ca/wp-content/plugins/bloom/css/style.css?ver=1.3.12)
+
+14:11:14	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/4391 (from https://truenorthhr.ca/2021/11/19/are-you-paying-your-employees-enough/)
+
+14:11:14	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4391
+
+14:11:14	Warning: 	File has moved from https://truenorthhr.ca/?p=4391 to https://truenorthhr.ca/2021/11/19/are-you-paying-your-employees-enough/
+
+14:11:20	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/5418 (from https://truenorthhr.ca/2022/02/10/what-does-human-resources-do/)
+
+14:11:20	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=5418
+
+14:11:20	Warning: 	File has moved from https://truenorthhr.ca/?p=5418 to https://truenorthhr.ca/2022/02/10/what-does-human-resources-do/
+
+14:11:20	Warning: 	Moved Permanently for https://truenorthhr.ca/performance-management-consulting-services/
+
+14:11:20	Warning: 	File has moved from https://truenorthhr.ca/performance-management-consulting-services/ to /leadership-consulting/
+
+14:11:20	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/5453 (from https://truenorthhr.ca/2022/04/06/organizational-design-your-guide-to-an-effective-strategy/)
+
+14:11:20	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=5453
+
+14:11:20	Warning: 	File has moved from https://truenorthhr.ca/?p=5453 to https://truenorthhr.ca/2022/04/06/organizational-design-your-guide-to-an-effective-strategy/
+
+14:11:25	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/8264 (from https://truenorthhr.ca/staffing-recruiting/executive-recruiting/)
+
+14:11:25	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8264
+
+14:11:25	Warning: 	File has moved from https://truenorthhr.ca/?p=8264 to https://truenorthhr.ca/staffing-recruiting/executive-recruiting/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/16170 (from https://truenorthhr.ca/2024/03/05/unlocking-organizational-efficiency-and-flexibility-with-fractional-hr/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=16170
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=16170 to https://truenorthhr.ca/2024/03/05/unlocking-organizational-efficiency-and-flexibility-with-fractional-hr/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/15799 (from https://truenorthhr.ca/2024/02/06/easy-steps-for-payroll-readiness-during-tax-season/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=15799
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=15799 to https://truenorthhr.ca/2024/02/06/easy-steps-for-payroll-readiness-during-tax-season/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/15357 (from https://truenorthhr.ca/2024/01/02/how-to-be-compliant-with-ontarios-pay-transparency-act/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=15357
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=15357 to https://truenorthhr.ca/2024/01/02/how-to-be-compliant-with-ontarios-pay-transparency-act/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/15301 (from https://truenorthhr.ca/2023/12/27/decoding-pay-transparency-in-ontario-a-guide-for-employers/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=15301
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=15301 to https://truenorthhr.ca/2023/12/27/decoding-pay-transparency-in-ontario-a-guide-for-employers/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/15052 (from https://truenorthhr.ca/2023/12/04/pay-equity-and-the-generational-divide-exploring-different-perspectives/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=15052
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=15052 to https://truenorthhr.ca/2023/12/04/pay-equity-and-the-generational-divide-exploring-different-perspectives/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/14556 (from https://truenorthhr.ca/2023/10/30/generative-ai-and-human-resources/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=14556
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=14556 to https://truenorthhr.ca/2023/10/30/generative-ai-and-human-resources/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/14263 (from https://truenorthhr.ca/2023/09/27/pay-equity-analysis-in-canada-a-comprehensive-guide/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=14263
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=14263 to https://truenorthhr.ca/2023/09/27/pay-equity-analysis-in-canada-a-comprehensive-guide/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/13968 (from https://truenorthhr.ca/2023/08/30/what-is-pay-equity/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=13968
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=13968 to https://truenorthhr.ca/2023/08/30/what-is-pay-equity/
+
+14:12:49	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/13707 (from https://truenorthhr.ca/2023/08/03/hr-audits-the-complete-guide/)
+
+14:12:49	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=13707
+
+14:12:49	Warning: 	File has moved from https://truenorthhr.ca/?p=13707 to https://truenorthhr.ca/2023/08/03/hr-audits-the-complete-guide/
+
+14:12:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/13307 (from https://truenorthhr.ca/2023/06/27/understanding-fractional-hr-and-how-it-can-help-your-business/)
+
+14:12:50	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=13307
+
+14:12:50	Warning: 	File has moved from https://truenorthhr.ca/?p=13307 to https://truenorthhr.ca/2023/06/27/understanding-fractional-hr-and-how-it-can-help-your-business/
+
+14:12:50	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/12867 (from https://truenorthhr.ca/2023/05/15/the-value-of-total-compensation-packages-a-comprehensive-guide/)
+
+14:12:50	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12867
+
+14:12:50	Warning: 	File has moved from https://truenorthhr.ca/?p=12867 to https://truenorthhr.ca/2023/05/15/the-value-of-total-compensation-packages-a-comprehensive-guide/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/4766 (from https://truenorthhr.ca/service-area/toronto-hr-consulting/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4766
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=4766 to https://truenorthhr.ca/service-area/toronto-hr-consulting/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/12136 (from https://truenorthhr.ca/sectors/small-business/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12136
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=12136 to https://truenorthhr.ca/sectors/small-business/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/12689 (from https://truenorthhr.ca/sectors/non-profits/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12689
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=12689 to https://truenorthhr.ca/sectors/non-profits/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/pages/12903 (from https://truenorthhr.ca/sectors/large-corporations/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12903
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=12903 to https://truenorthhr.ca/sectors/large-corporations/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/8620 (from https://truenorthhr.ca/2022/07/27/what-is-executive-compensation-consulting/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8620
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=8620 to https://truenorthhr.ca/2022/07/27/what-is-executive-compensation-consulting/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/8623 (from https://truenorthhr.ca/2022/06/15/exploring-hr-information-design-a-comprehensive-guide/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8623
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=8623 to https://truenorthhr.ca/2022/06/15/exploring-hr-information-design-a-comprehensive-guide/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/12605 (from https://truenorthhr.ca/2023/04/24/ontarios-electronic-monitoring-policy-heres-what-you-should-know/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12605
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=12605 to https://truenorthhr.ca/2023/04/24/ontarios-electronic-monitoring-policy-heres-what-you-should-know/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/12080 (from https://truenorthhr.ca/2023/03/20/whats-the-difference-between-pay-equity-and-pay-equality/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=12080
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=12080 to https://truenorthhr.ca/2023/03/20/whats-the-difference-between-pay-equity-and-pay-equality/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/11682 (from https://truenorthhr.ca/2023/02/27/how-to-create-a-leadership-development-plan/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=11682
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=11682 to https://truenorthhr.ca/2023/02/27/how-to-create-a-leadership-development-plan/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/10934 (from https://truenorthhr.ca/2023/01/23/six-common-recruiting-challenges-and-their-solutions/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=10934
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=10934 to https://truenorthhr.ca/2023/01/23/six-common-recruiting-challenges-and-their-solutions/
+
+14:13:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/10247 (from https://truenorthhr.ca/2022/12/21/five-tips-for-hiring-top-talent/)
+
+14:13:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=10247
+
+14:13:35	Warning: 	File has moved from https://truenorthhr.ca/?p=10247 to https://truenorthhr.ca/2022/12/21/five-tips-for-hiring-top-talent/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/10166 (from https://truenorthhr.ca/2022/12/16/2022-policy-checklist-employers/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=10166
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=10166 to https://truenorthhr.ca/2022/12/16/2022-policy-checklist-employers/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/9917 (from https://truenorthhr.ca/2022/11/28/the-eight-types-of-compensation/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=9917
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=9917 to https://truenorthhr.ca/2022/11/28/the-eight-types-of-compensation/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/9914 (from https://truenorthhr.ca/2022/11/10/human-capital-consulting-vs-human-resource-consulting-whats-the-difference/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=9914
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=9914 to https://truenorthhr.ca/2022/11/10/human-capital-consulting-vs-human-resource-consulting-whats-the-difference/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/9475 (from https://truenorthhr.ca/2022/10/26/eight-ways-to-change-your-workplace-culture/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=9475
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=9475 to https://truenorthhr.ca/2022/10/26/eight-ways-to-change-your-workplace-culture/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/9471 (from https://truenorthhr.ca/2022/10/12/what-is-an-executive-recruiter/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=9471
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=9471 to https://truenorthhr.ca/2022/10/12/what-is-an-executive-recruiter/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/8616 (from https://truenorthhr.ca/2022/09/12/how-to-message-a-recruiter-on-linkedin-with-examples/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8616
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=8616 to https://truenorthhr.ca/2022/09/12/how-to-message-a-recruiter-on-linkedin-with-examples/
+
+14:13:43	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/8044 (from https://truenorthhr.ca/2022/08/11/the-differences-between-recruiting-and-talent-acquisition/)
+
+14:13:43	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8044
+
+14:13:43	Warning: 	File has moved from https://truenorthhr.ca/?p=8044 to https://truenorthhr.ca/2022/08/11/the-differences-between-recruiting-and-talent-acquisition/
+
+14:14:34	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/8406 (from https://truenorthhr.ca/2022/07/13/what-is-recruitment/)
+
+14:14:34	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=8406
+
+14:14:34	Warning: 	File has moved from https://truenorthhr.ca/?p=8406 to https://truenorthhr.ca/2022/07/13/what-is-recruitment/
+
+14:14:34	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/4331 (from https://truenorthhr.ca/2021/10/05/staffing-shortages-and-how-to-overcome-them/)
+
+14:14:34	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4331
+
+14:14:34	Warning: 	File has moved from https://truenorthhr.ca/?p=4331 to https://truenorthhr.ca/2021/10/05/staffing-shortages-and-how-to-overcome-them/
+
+14:14:34	Warning: 	Moved Permanently for https://truenorthhr.ca/talent-acquisition/
+
+14:14:34	Warning: 	File has moved from https://truenorthhr.ca/talent-acquisition/ to /staffing-recruiting/
+
+14:14:34	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/4273 (from https://truenorthhr.ca/2021/09/14/vaccination-rights-of-employers/)
+
+14:14:34	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4273
+
+14:14:34	Warning: 	File has moved from https://truenorthhr.ca/?p=4273 to https://truenorthhr.ca/2021/09/14/vaccination-rights-of-employers/
+
+14:14:34	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/4048 (from https://truenorthhr.ca/2021/07/23/current-hr-challenges-for-employers/)
+
+14:14:34	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=4048
+
+14:14:34	Warning: 	File has moved from https://truenorthhr.ca/?p=4048 to https://truenorthhr.ca/2021/07/23/current-hr-challenges-for-employers/
+
+14:14:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2508 (from https://truenorthhr.ca/2021/04/13/meet-the-true-north-hr-team-accettola-paola/)
+
+14:14:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2508
+
+14:14:35	Warning: 	File has moved from https://truenorthhr.ca/?p=2508 to https://truenorthhr.ca/2021/04/13/meet-the-true-north-hr-team-accettola-paola/
+
+14:14:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2473 (from https://truenorthhr.ca/2021/03/15/meet-the-true-north-hr-team-sandra-marrocco/)
+
+14:14:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2473
+
+14:14:35	Warning: 	File has moved from https://truenorthhr.ca/?p=2473 to https://truenorthhr.ca/2021/03/15/meet-the-true-north-hr-team-sandra-marrocco/
+
+14:14:35	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2471 (from https://truenorthhr.ca/2021/03/15/women-in-the-workforce/)
+
+14:14:35	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2471
+
+14:14:35	Warning: 	File has moved from https://truenorthhr.ca/?p=2471 to https://truenorthhr.ca/2021/03/15/women-in-the-workforce/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2138 (from https://truenorthhr.ca/2020/10/21/how-to-attract-the-best-employees-for-your-small-business/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2138
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2138 to https://truenorthhr.ca/2020/10/21/how-to-attract-the-best-employees-for-your-small-business/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2445 (from https://truenorthhr.ca/2021/02/16/hr-services-for-businesses-of-any-size/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2445
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2445 to https://truenorthhr.ca/2021/02/16/hr-services-for-businesses-of-any-size/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2420 (from https://truenorthhr.ca/2021/01/27/meet-the-true-north-hr-team-angela-burt/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2420
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2420 to https://truenorthhr.ca/2021/01/27/meet-the-true-north-hr-team-angela-burt/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2403 (from https://truenorthhr.ca/2021/01/12/the-responsibilities-of-great-leadership/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2403
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2403 to https://truenorthhr.ca/2021/01/12/the-responsibilities-of-great-leadership/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2371 (from https://truenorthhr.ca/2020/12/22/what-has-2020-taught-the-hr-world/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2371
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2371 to https://truenorthhr.ca/2020/12/22/what-has-2020-taught-the-hr-world/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2366 (from https://truenorthhr.ca/2020/12/16/ending-2020-with-gratitude/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2366
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2366 to https://truenorthhr.ca/2020/12/16/ending-2020-with-gratitude/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2333 (from https://truenorthhr.ca/2020/11/19/what-is-a-workplace-culture-transformation/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2333
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2333 to https://truenorthhr.ca/2020/11/19/what-is-a-workplace-culture-transformation/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2330 (from https://truenorthhr.ca/2020/11/19/2330/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2330
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2330 to https://truenorthhr.ca/2020/11/19/2330/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2141 (from https://truenorthhr.ca/2020/10/21/essential-hr-consulting-services-for-small-businesses/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2141
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2141 to https://truenorthhr.ca/2020/10/21/essential-hr-consulting-services-for-small-businesses/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2134 (from https://truenorthhr.ca/2020/09/30/mental-health-support-in-the-workplace/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2134
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2134 to https://truenorthhr.ca/2020/09/30/mental-health-support-in-the-workplace/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2130 (from https://truenorthhr.ca/2020/09/21/infectious-disease-emergency-leave-in-the-province-of-ontario/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2130
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2130 to https://truenorthhr.ca/2020/09/21/infectious-disease-emergency-leave-in-the-province-of-ontario/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2127 (from https://truenorthhr.ca/2020/09/15/working-parents-and-accommodations-for-online-learning/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2127
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2127 to https://truenorthhr.ca/2020/09/15/working-parents-and-accommodations-for-online-learning/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2113 (from https://truenorthhr.ca/2020/08/05/what-happens-when-there-is-no-employment-contract/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2113
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2113 to https://truenorthhr.ca/2020/08/05/what-happens-when-there-is-no-employment-contract/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2109 (from https://truenorthhr.ca/2020/07/28/the-importance-of-employment-contracts/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2109
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2109 to https://truenorthhr.ca/2020/07/28/the-importance-of-employment-contracts/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2087 (from https://truenorthhr.ca/2020/04/02/the-advantages-of-promoting-a-mentally-healthy-workplace-2/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2087
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2087 to https://truenorthhr.ca/2020/04/02/the-advantages-of-promoting-a-mentally-healthy-workplace-2/
+
+14:15:00	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2093 (from https://truenorthhr.ca/2020/03/07/creating-an-lgbtq-friendly-workplace-without-making-a-big-deal-about-it-2/)
+
+14:15:00	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2093
+
+14:15:00	Warning: 	File has moved from https://truenorthhr.ca/?p=2093 to https://truenorthhr.ca/2020/03/07/creating-an-lgbtq-friendly-workplace-without-making-a-big-deal-about-it-2/
+
+14:15:01	Error: 	"Unauthorized" (401) at link https://truenorthhr.ca/wp-json/wp/v2/posts/2091 (from https://truenorthhr.ca/2020/02/27/millennial-burnout-2/)
+
+14:15:01	Warning: 	Moved Permanently for https://truenorthhr.ca/?p=2091
+
+14:15:01	Warning: 	File has moved from https://truenorthhr.ca/?p=2091 to https://truenorthhr.ca/2020/02/27/millennial-burnout-2/
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 25 seconds : 734 links scanned, 574 files written (58980700 bytes overall) [46970106 bytes received at 42506 bytes/sec], 16833321 bytes transferred using HTTP compression in 322 files, ratio 24%, 17.5 requests per connection
+
+(78 errors, 163 warnings, 0 messages)
+

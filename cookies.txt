@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bamboohr.com	TRUE	/	FALSE	1999999999	_cfuvid	Fw_08ejCzNxMA3PhNvX2Ex1BkbWXEOzPMYKeegu2Xik-1712833592037-0.0.1.1-604800000
+truenorthhr.bamboohr.com	TRUE	/	FALSE	1999999999	SameSite	None
+.truenorthhr.ca	TRUE	/	FALSE	1999999999	__cf_bm	vrKbRHjchN8.VQojwqh.p5t.upGK_HuyHZrgzj4Oy7k-1712834104-1.0.1.1-ZcCwHAdeDzaVCG76HderLz5zSKFnhkfnG2INJRcHyfTnOVSeo3uNiSfdSOWtdrEGqnZBfPzIFdA1Ys9ekWyOfQ
+truenorthhr.ca	TRUE	/	FALSE	1999999999	SameSite	None
+
